@@ -11,3 +11,9 @@ dir
 
 // branch - versão diferente do sistema (a principal é a master)
 // commit - realizar qualquer alteração e envia-las para o git (lembre-se de comentar)
+
+// mostra os arquivos estão sendo monitorados
+git status
+
+// monitora todo mundo na pasta
+git add -A 
