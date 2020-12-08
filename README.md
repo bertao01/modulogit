@@ -1,1 +1,1 @@
-Nao to aguentando mais essa chatice de git
+Bem vindo ao curso de git
